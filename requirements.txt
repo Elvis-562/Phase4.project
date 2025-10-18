@@ -16,3 +16,9 @@ pre-commit
 jax[cpu] >= 0.4.6
 numpy
 torch
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+imbalanced-learn
