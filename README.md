@@ -1,4 +1,4 @@
-Apple and Google Products Twitter Sentiment Analysis
+## Apple and Google Products Twitter Sentiment Analysis
 Authors:
 
 Elvis Wanjohi (Team Leader)
