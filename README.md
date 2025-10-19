@@ -12,12 +12,12 @@ Stephen Gachingu
 Latifa Riziki
 
 ## 1. Business Understanding
-1.1 Business Overview
-Apple and Google are global technology companies which offer a variety of electronic products and software services. Like any big company, there is public opinion of the products and services they bring to the market. As leaders in the competitive tech industry, their operations depend heavily on customer satisfaction and public perception of their brands.
+### 1.1 Business Overview
+Apple and Google are global technology companies that offer a variety of electronic products and software services. Like any big company, there is public opinion of the products and services they bring to the market. As leaders in the competitive tech industry, their operations depend heavily on customer satisfaction and public perception of their brands.
 
-Customer sentiment plays a key role for both companies. Negative opinions expressed online can affect brand image and influence purchasing decisions. By analyzing customer feedback from social media platforms such as Twitter, these companies can gain insights into how users feel about their products and services. This can help identify areas for improvement, respond to customer concerns and strengthen their brand reputation.
+Customer sentiment plays a key role for both companies. Negative opinions expressed online can affect brand image and influence purchasing decisions. By analyzing customer feedback from social media platforms such as Twitter, these companies can gain insights into how users feel about their products and services. This can help identify areas for improvement, respond to customer concerns, and strengthen their brand reputation.
 
-1.2 The Problem
+### 1.2 The Problem
 Apple and Google’s success rely heavily on maintaining strong customer satisfaction and positive public perception. With users actively sharing opinions on Twitter, analyzing this feedback has become important for improving products and strengthening brand reputation.
 
 The main challenge is effectively analyzing this data to understand customer sentiment. To address this, this project builds a sentiment analysis model that classifies tweets about Apple and Google products into positive, negative or neutral categories.
