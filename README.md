@@ -163,7 +163,24 @@ Evaluation metrics included Accuracy, F1-Score, and ROC-AUC on both train and va
 
 3. Expanding the dataset to balance sentiment classes.
 
-## 6. Technologies Used
+## 6. Deployment
+
+The trained model was deployed to Streamlit Cloud to make it interactive and easy to use.
+Key Steps:
+1. Prepared a requirements.txt file listing all required Python packages.
+
+2. Encountered a deployment error caused by a missing path (../requirements.txt).
+
+3. Fixed the issue by removing the invalid line and redeploying.
+  
+4. Streamlit automatically installed all required libraries and launched the web app successfully.
+
+5. The model is now live and accessible to users for testing and prediction.
+
+App Link:
+https://phase4projec-qkr7ewgse2npajgfsamzq3.streamlit.app/
+
+## 7. Technologies Used
 
 - **Python**: Primary programming language
 
