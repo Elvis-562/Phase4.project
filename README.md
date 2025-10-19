@@ -22,8 +22,8 @@ Apple and Google’s success rely heavily on maintaining strong customer satisfa
 
 The main challenge is effectively analyzing this data to understand customer sentiment. To address this, this project builds a sentiment analysis model that classifies tweets about Apple and Google products into positive, negative or neutral categories.
 
-1.3 Project Objectives
-1.3.1 Main Objective
+### 1.3 Project Objectives
+### 1.3.1 Main Objective
 The main objective of this project is to develop a sentiment classification model that analyzes tweets about Apple and Google products and classifies them as positive, negative or neutral.
 
 1.3.2 Specific Objectives
