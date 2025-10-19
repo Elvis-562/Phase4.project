@@ -11,7 +11,7 @@ Stephen Gachingu
 
 Latifa Riziki
 
-1. Business Understanding
+## 1. Business Understanding
 1.1 Business Overview
 Apple and Google are global technology companies which offer a variety of electronic products and software services. Like any big company, there is public opinion of the products and services they bring to the market. As leaders in the competitive tech industry, their operations depend heavily on customer satisfaction and public perception of their brands.
 
