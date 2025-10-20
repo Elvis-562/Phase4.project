@@ -200,10 +200,10 @@ https://phase4projec-qkr7ewgse2npajgfsamzq3.streamlit.app/
 
 - **Joblib and Pickle**: To save the trained model.
 
-## 7. Conclusion
+## 8. Conclusion
 This Twitter sentiment analysis project has provided valuable insights into the challenges and opportunities of automated sentiment classification for Apple and Google products. The analysis encompassed both binary and multi-class classification approaches, revealing important patterns about social media sentiment and model performance. Both the binary and multi-class approaches identified LinearSvc as the best performing model, suggesting that the model can be saved and its analysis used to make new predictions.
 
-## 8. Support
+## 9. Support
 For questions or support, please contact:
 
 1. jessengugi99@gmail.com
